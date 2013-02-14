@@ -1,4 +1,11 @@
-###global module, require###
+### globals module require
+ * grunt-gint
+ * https://github.com/Gintellect/grunt-gint
+ *
+ * This task is mostly taken from Cary Landholt's grunt-hustler project
+ * "https://github.com/CaryLandholt/grunt-hustler"
+
+###
 
 module.exports = (grunt) ->
   prettyDiff = require('prettydiff');
