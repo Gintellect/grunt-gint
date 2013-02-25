@@ -20,6 +20,6 @@ module.exports = (grunt) ->
       else
         grunt.log.header source.src[0]
         for error in errors
-          results.push grunt.log.error("#" + error.lineNumber 
-          + ": " + error.message + " (" + error.context + ")")
+          results.push grunt.log.error("#" + error.lineNumber + 
+          ": " + error.message + " (" + error.context + ")")
     return results
