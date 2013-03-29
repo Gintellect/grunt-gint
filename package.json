@@ -1,7 +1,7 @@
 {
   "name": "grunt-gint",
   "description": "A series of plugins to support the gintellect dev workflow.",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "homepage": "https://github.com/Gintellect/grunt-gint",
   "author": {
     "name": "David Bochenski",
@@ -30,7 +30,7 @@
   "dependencies": {
     "mocha": "~1.8.1",
     "coffeelint": "~0.5.4",
-    "prettydiff": "~0.0.86"
+    "prettydiff": "0.0.151"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "0.1.1rc6",
