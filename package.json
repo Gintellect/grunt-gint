@@ -1,7 +1,7 @@
 {
   "name": "grunt-gint",
   "description": "A series of plugins to support the gintellect dev workflow.",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "homepage": "https://github.com/Gintellect/grunt-gint",
   "author": {
     "name": "David Bochenski",
@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "coffeelint": "~0.5.6",
+    "coffeelint": "~1.0.2",
     "prettydiff": "0.0.151"
   },
   "devDependencies": {
