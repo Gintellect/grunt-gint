@@ -1,16 +1,16 @@
 {
   "name": "grunt-gint",
   "description": "A series of plugins to support the gintellect dev workflow.",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "homepage": "https://github.com/Gintellect/grunt-gint",
   "author": {
     "name": "David Bochenski",
-    "email": "david@bochenski.co.uk"
+    "email": "info@gintellect.com"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/Gintellect/grunt-gint.git"
-  },
+  }, 
   "bugs": {
     "url": "https://github.com/Gintellect/grunt-gint/issues"
   },
@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "coffeelint": "~1.0.2",
+    "coffeelint": "0.5.7",
     "prettydiff": "0.0.151"
   },
   "devDependencies": {
